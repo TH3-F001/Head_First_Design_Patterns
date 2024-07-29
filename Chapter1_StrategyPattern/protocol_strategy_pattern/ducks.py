@@ -54,8 +54,8 @@ class ModelDuck(Duck):
 # Used to test Protocol type failure (Note that there are no errors for NonCompliant
 # quack at they time it is assigned to the DummyDuck class
 class DummyDuck(Duck):
-    fly_behaviour = FlyWithWings
-    quack_behaviour = NonCompliantQuack
+    fly_behaviour = FlyWithWings()
+    quack_behaviour = NonCompliantQuack()
 
     def display(self):
         return "I'm just a protocol dummy"

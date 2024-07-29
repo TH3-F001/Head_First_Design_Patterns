@@ -5,27 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22055122-8b6c-410d-bbf3-c8172c19d3c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern/duck_sim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern/ducks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern/flying.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern/hunter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern/interfaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern/quacking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/chapter_1_character_challenge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/duck_sim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/ducks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/flying.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/hunter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/interfaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/quacking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_2-observer_pattern/chapter_2_weather_display.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-observer_pattern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-observer_pattern/observer_pattern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-observer_pattern/observer_pattern/cli_current_display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-observer_pattern/observer_pattern/interfaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-observer_pattern/observer_pattern/open_weather_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-observer_pattern/observer_pattern/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-observer_pattern/observer_pattern/weather_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/ducks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/ducks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,19 +42,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.chapter_1.executor": "Run",
+    "Python.cli_current_display.executor": "Run",
     "Python.duck_sim.executor": "Run",
     "Python.hunter.executor": "Run",
+    "Python.test_main.executor": "Run",
+    "Python.weather_data.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/neon/Documents/Projects/Programming_Projects/Head_First_Design_Patterns/Chapter1_StrategyPattern/protocol_strategy_pattern"
+    "last_opened_file_path": "/home/neon/Documents/Projects/Programming_Projects/Head_First_Design_Patterns/chapter_2-observer_pattern",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_2-observer_pattern" />
       <recent name="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern" />
       <recent name="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_2-observer_pattern/observer_pattern" />
       <recent name="$PROJECT_DIR$/Chapter1_StrategyPattern/abc_strategy_pattern" />
       <recent name="$PROJECT_DIR$/Chapter1_StrategyPattern/protocol_strategy_pattern/ducks" />
       <recent name="$PROJECT_DIR$/Chapter1_StrategyPattern/strategy_pattern" />
